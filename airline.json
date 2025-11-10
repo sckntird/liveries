@@ -1,5 +1,5 @@
 {
-    "name": "SQ981's Liveries",
+    "name": "SQ981's Livery Pack",
     "color": "purple",
     "bgcolor": "black",
     "aircrafts": {
@@ -249,7 +249,7 @@
             "labels": [
                 "Texture"
             ]
-        }
+        },
         "2879": {
             "name": "Airbus a319-100",
             "liveries": [
