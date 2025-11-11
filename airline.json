@@ -63,6 +63,17 @@
                 "Specular shader",
                 "Cockpit texture"
             ]
+        },
+        "2857": {
+            "name": "Lokheed Martin F22 Raptor",
+            "liveries": [
+                "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/F22-Strider-1.png",
+                "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/f22/shaders/simple.png"
+            ],
+            "labels": [
+                "Texture",
+                "Metallic Roughness shader"
+            ]
         }
     }
 }
