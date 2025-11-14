@@ -245,16 +245,6 @@
         "239": {
             "name": "Airbus a350-900",
             "liveries": [
-              {
-                  "name":  "Pan Am",
-                  "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/A359-Pan-Am.png"],
-                  "credits": "SQ981"
-                },
-                {
-                  "name":  "Polaris",
-                  "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Polaris-A359.png"],
-                  "credits": "SQ981"
-              }
             ],
             "labels": [
                 "Texture"
@@ -429,6 +419,23 @@
         "24": {
             "name": "Airbus a350-900",
             "liveries": [
+                
+              {
+                  "name":  "Pan Am",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/A359-Pan-Am.png"
+                  ],
+                  "credits": "SQ981"
+                },
+                {
+                  "name":  "Polaris",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Polaris-A359.png"
+                  ],
+                  "credits": "SQ981"
+              }
             ],
             "labels": [
                 "Specular shader",
