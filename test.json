@@ -1,0 +1,77 @@
+{
+    "name": "Royal New Zealand Airforce",
+    "color": "white",
+    "bgcolor": "blue",
+
+    "aircrafts": {
+        "7": {
+            "name": "F-16 Fighting Falcon",
+            "liveries": [
+                {
+                    "name": "F-16 RNZAF Livery",
+                    "texture": [
+                        "https://i.ibb.co/DVvV1Mj/RNZAF-F-16-BB-Finall.png"
+                    ],
+                    "credits": "Bigboi69"
+                },
+                {
+                    "name": "F-16 RNZAF Livery Alt.",
+                    "texture": [
+                        "https://i.ibb.co/QMsbjdB/rnzaf-f16-made-by-me.png"
+                    ],
+                    "credits": "Kiwi-1"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "4": {
+            "name": "Boeing 737-700",
+            "liveries": [
+                {
+                    "name": "Boeing 737-700 RNZAF Livery",
+                    "texture": [
+                        "https://www.geo-fs.com/models/aircraft/premium/737_700/specular.jpg",
+                        "https://i.ibb.co/YDj45kv/737-700-Livery.png"
+                    ],
+                    "credits": "Calculus"
+                }
+            ],
+            "labels": [
+                "Specular Shader",
+                "Texture"
+            ]
+        },
+        "4631": {
+            "name": "Airbus a330-900neo",
+            "liveries": [
+                {
+                    "name": "A330-900neo RNZAF Livery",
+                    "texture": [
+                        "https://i.ibb.co/s2kt5RT/RNZAF-a330.png"
+                    ],
+                    "credits": "Calculus"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "3292": {
+            "name": "Boeing p8I Neptune",
+            "liveries": [
+                {
+                    "name": "P-8i RNZAF Livery",
+                    "texture": [
+                        "https://i.ibb.co/m43d2nN/RNZAF-P-8-Geo-FS.png"
+                    ],
+                    "credits": "Kiwi-1"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        }
+    }
+}
