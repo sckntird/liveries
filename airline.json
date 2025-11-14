@@ -9,7 +9,14 @@
               {
                   "name":  "Pan Am",
                   "texture": [
-                      "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/A359-Pan-Am.png",
+                      "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/liveries/A359-Pan-Am.png",
+                  ],
+                  "credits": "SQ981"
+                },
+                {
+                  "name":  "Polaris",
+                  "texture": [
+                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Polaris-A359.png",
                   ],
                   "credits": "SQ981"
               }
@@ -25,7 +32,7 @@
                   "name":  "Garuda Indonesia (Skyteam)",
                   "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/garuda_skyteam2.png"
+                        "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/liveries/garuda_skyteam2.png"
                   ],
                   "credits": "SQ981"
               },
@@ -33,7 +40,7 @@
                   "name":  "Qatar (Oneworld)",
                   "texture": [
                         "/models/aircraft/premium/777_300/specular_0.jpg",
-                        "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/B77W-qatar-oneworld.png"
+                        "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/liveries/B77W-qatar-oneworld.png"
                   ],
                   "credits": "SQ981 and AusboyX"
               }
@@ -50,7 +57,7 @@
                     "name": "Erusean Royal Navy (SACS)",
                     "texture": [
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/normal/Image_0.jpg",
-                        "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/SACS.png",
+                        "https://raw.githubusercontent.com/Ecksar/liveries/refs/heads/main/liveries/SACS.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/specular/Image_2.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
                     ],
@@ -67,12 +74,48 @@
         "2857": {
             "name": "Lokheed Martin F22 Raptor",
             "liveries": [
-                "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/F22-Strider-1.png",
-                "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/f22/shaders/simple.png"
+                {
+                    "name": "Strider 1 \"Trigger\"",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/F22-Strider-1.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/f22/shaders/simple.png"
+                    ],
+                    "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture",
                 "Metallic Roughness shader"
+            ]
+        },
+        2856": {
+            "name": "Airbus a330-200",
+            "liveries": [
+                {
+                "name": "Republic of Singapore Air Force (50th Anniversary)",
+                    "texture": [
+                    "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/RSAF-A330MRTT.png"
+                    ],
+                    "credits": "SQ981"
+                }
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "18": {
+            "name": "Sukhoi Su-35 Flanker",
+            "liveries": [
+                {
+                    "name": "Sol 1 \"Archange\"",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Su35-Sol1.png"
+                    ],
+                    "credits": "SQ981"
+                }
+            ],
+            "labels": [
+                "Texture"
             ]
         }
     }
