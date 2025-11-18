@@ -217,7 +217,7 @@
             ]
         },
         "102": {
-            "name": "Citroen 2CV",
+            "name": "Citroen 2CV", 
             "liveries": [
             ],
             "labels": [
@@ -291,7 +291,7 @@
             ]
         },
         "2899": {
-            "name": "Airbus a220-300",
+             "name": "Airbus a220-300",
             "liveries": [
             ],
             "labels": [
@@ -365,7 +365,7 @@
             ]
         },
         "247": {
-            "name": "Bombardier Dash8-q400",
+            "name": "Bombardier Dash8-q400", 
             "liveries": [
             ],
             "labels": [
@@ -951,14 +951,14 @@
                     "texture": [
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/panam-747sp-n530pa.png"
                     ],
-                    "credits": "luca b"
+                    "credits": "SQ981"
                 },
                 {
                     "name": "Pan Am (Clipper Freedom)",
                     "texture": [
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/panam-747sp-n531pa.png"
                     ],
-                    "credits": "AF267"
+                    "credits": "SQ981"
                 }
             ],
             "labels": [
