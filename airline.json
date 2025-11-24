@@ -72,6 +72,15 @@
         "10": {
             "name": "Airbus a380-800",
             "liveries": [
+                {
+                    "name":  "Nordstar",
+                  "texture": [
+                      "/models/aircraft/premium/a380/normal.jpg",
+                        "/models/aircraft/premium/a380/specular.jpg",
+                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Nordstar-a380.png"
+                  ],
+                  "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Normal map",
@@ -453,6 +462,11 @@
         "4646": {
             "name": "Airbus a321neo",
             "liveries": [
+                {
+                    "name":  "Nordstar",
+                  "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Nordstar-acj321xlr.png"],
+                  "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
