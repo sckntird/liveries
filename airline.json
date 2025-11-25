@@ -629,6 +629,11 @@
         "5156": {
             "name": "Airbus a318-112",
             "liveries": [
+                {
+                "name": "Airbus A318neo House Livery",
+                "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/a318neo.png"],
+                    "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
