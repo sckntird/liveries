@@ -915,6 +915,11 @@
         "1018": {
             "name": "Embraer ERJ 190",
             "liveries": [
+                {
+                    "name":  "Nordstar",
+                  "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Nordstar-lineage1000.png"],
+                  "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
