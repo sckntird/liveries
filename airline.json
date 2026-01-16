@@ -630,6 +630,11 @@
         "27": {
             "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
             "liveries": [
+                {
+                "name": "Zone of Endless Major",
+                    "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/zoneofendless-fa18f.png"],
+                    "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
