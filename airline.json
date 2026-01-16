@@ -871,6 +871,11 @@
         "5431": {
             "name": "Northrop YF-23",
             "liveries": [
+                {
+                    "name": "Zone of Endless Colonel",
+                    "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/zoneofendless-yf23.png"],
+                    "credits": "SQ981"
+                }   
             ],
             "labels": [
                 "Texture"
