@@ -162,6 +162,13 @@
         "20": {
             "name": "Aerospatiale France - British Aircraft Corporation Concorde",
             "liveries": [
+                {
+                    "name": "United States Postal Service",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/usps-concorde.png"
+                    ],
+                    "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
