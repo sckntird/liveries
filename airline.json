@@ -384,6 +384,13 @@
         "4140": {
             "name": "Boeing b737-200",
             "liveries": [
+                 {
+                    "name": "Malaysia-Singapore Airlines",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/msa-b732.png"
+                    ],
+                    "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
