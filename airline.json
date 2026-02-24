@@ -471,8 +471,8 @@
                 {
                     "name": "Singapore Airlines",
                     "texture": [
-                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme.png",
-                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme-specular.png"
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme-specular.png",
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme.png"
                     ],
                     "credits": "SQ981"
                 }
