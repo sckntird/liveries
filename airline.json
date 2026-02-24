@@ -467,7 +467,16 @@
                       "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Nordstar-a359.png"
                   ],
                   "credits": "SQ981"
-              }
+              },
+                {
+                    "name": "Singapore Airlines",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme.png",
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme-specular.png"
+                    ],
+                    "credits": "SQ981"
+                }
+                        
             ],
             "labels": [
                 "Specular shader",
@@ -802,7 +811,7 @@
             ]
         },
         "2953": {
-            "name": "NASA Space Shuttle",
+            "name": "NASA Space Shuttle",font has: file 
             "liveries": [
             ],
             "labels":[
