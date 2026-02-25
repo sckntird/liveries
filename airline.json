@@ -477,6 +477,14 @@
                     "credits": "SQ981"
                 },
                 {
+                    "name": "Singapore Airlines (10000th Airbus)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme-specular.png",
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-smf.png"
+                    ],
+                    "credits": "SQ981"
+                },
+                {
                     "name": "Singapore Airlines (ULR)",
                     "texture": [
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sgb-specular.png",
