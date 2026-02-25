@@ -469,10 +469,18 @@
                   "credits": "SQ981"
               },
                 {
-                    "name": "Singapore Airlines",
+                    "name": "Singapore Airlines (LH)",
                     "texture": [
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme-specular.png",
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme.png"
+                    ],
+                    "credits": "SQ981"
+                },
+                {
+                    "name": "Singapore Airlines (ULR)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sgb-specular.png",
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sgb.png"
                     ],
                     "credits": "SQ981"
                 }
