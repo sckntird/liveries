@@ -502,6 +502,13 @@
         "4631": {
             "name": "Airbus a330-900neo",
             "liveries": [
+                {
+                    "name": "Airbus House Livery",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/f-wttn.png"
+                    ],
+                    "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
