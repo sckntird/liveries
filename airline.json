@@ -334,6 +334,13 @@
         "2769": {
             "name": "Boeing b737-MAX8",
             "liveries": [
+                {
+                    "name": "Singapore Airlines",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-mbm.png"
+                    ],
+                    "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
@@ -1027,6 +1034,35 @@
         "5551": {
             "name": "Comac C919",
             "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "1009": {
+            "name": "Airbus a300-600",
+            "liveries": [
+                {
+                    "name": "Lufthansa",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/d-aiam.png"
+                    ],
+                    "credits": "SQ981"
+                },
+                {
+                    "name": "Qatar Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/a7-abw.png"
+                    ],
+                    "credits": "SQ981"
+                },
+                {
+                    "name": "Korean Air",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/hl7297.png"
+                    ],
+                    "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Texture"
