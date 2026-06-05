@@ -448,6 +448,15 @@
         "3341": {
             "name": "Embraer ERJ 170",
             "liveries": [
+                {
+                  "name":  "People's",
+                  "texture": [
+                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/oe-lmk_fuselage.png",
+                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/oe-lmk_wing.jpg",
+                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/oe-lmk_engines.png"
+                  ],
+                  "credits": "SQ981"
+                }
             ],
             "labels": [
                 "Fuselage texture",
