@@ -300,6 +300,13 @@
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/delta-a35k.png"
                     ],
                     "credits": "SQ981"
+                },
+                {
+                    "name": "Thai Airways",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/thai-a35k.png"
+                    ],
+                    "credits": "SQ981"
                 }
             ],
             "labels": [
