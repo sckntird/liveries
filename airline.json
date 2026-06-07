@@ -307,6 +307,13 @@
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/thai-a35k.png"
                     ],
                     "credits": "SQ981"
+                },
+                {
+                    "name": "Thai Airways (Star Alliance)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/thai-star-a35k.png"
+                    ],
+                    "credits": "SQ981"
                 }
             ],
             "labels": [
