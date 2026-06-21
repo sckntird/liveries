@@ -314,6 +314,13 @@
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/thai-star-a35k.png"
                     ],
                     "credits": "SQ981"
+                },
+                {
+                    "name": "Starlux",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/external-liveries/starlux_a35k.png"
+                    ],
+                    "credits": "Apawehh"
                 }
             ],
             "labels": [
