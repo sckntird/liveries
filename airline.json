@@ -613,6 +613,14 @@
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/B77W-qatar-oneworld.png"
                   ],
                   "credits": "SQ981 and AusboyX"
+              },
+            {
+                  "name":  "Singapore Airlines (Star Alliance)",
+                  "texture": [
+                        "/models/aircraft/premium/777_300/specular_0.jpg",
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/external-liveries/9v-swi.png"
+                  ],
+                  "credits": "壹茶"
               }
             ],
             "labels": [
