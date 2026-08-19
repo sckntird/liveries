@@ -297,6 +297,14 @@
         "New P-Series_267286_2418": {
             "name": "ATR 72-600",
             "liveries": [
+            ],
+            "labels": [
+                "Texture"
+            ]
+        },
+        "ATR 72-600 (SAS)_267286_2420": {
+            "name": "ATR 72-600"
+            "liveries": [
                 {
                     "name": "Firefly",
                     "texture": [
@@ -307,7 +315,7 @@
             ],
             "labels": [
                 "Texture"
-            ]
+            ],
         },
         "_260077_2973": {
             "name": "Airbus a350-1000",
