@@ -789,7 +789,12 @@
             "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
             "liveries": [
                 {
-                "name": "Zone of Endless Major",
+                "name": "Zone of Endless Major (From Ace Combat 2)",
+                    "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/zoneofendless-fa18f.png"],
+                    "credits": "SQ981"
+                },
+                {
+                "name": "Joker 1 \"Rex\" (from Ace Combat 8)",
                     "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/zoneofendless-fa18f.png"],
                     "credits": "SQ981"
                 }
