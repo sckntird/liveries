@@ -328,6 +328,13 @@
                     "credits": "SQ981"
                 },
                 {
+                    "name": "Starlux",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/external-liveries/starlux_a35k.png"
+                    ],
+                    "credits": "Apawehh"
+                },
+                {
                     "name": "Thai Airways",
                     "texture": [
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/thai-a35k.png"
@@ -340,13 +347,6 @@
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/thai-star-a35k.png"
                     ],
                     "credits": "SQ981"
-                },
-                {
-                    "name": "Starlux",
-                    "texture": [
-                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/external-liveries/starlux_a35k.png"
-                    ],
-                    "credits": "Apawehh"
                 }
             ],
             "labels": [
@@ -364,6 +364,13 @@
                     "credits": "SQ981"
                 },
                 {
+                    "name": "Starlux",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/external-liveries/starlux_a35k.png"
+                    ],
+                    "credits": "Apawehh"
+                },
+                {
                     "name": "Thai Airways",
                     "texture": [
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/thai-a35k.png"
@@ -376,13 +383,6 @@
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/thai-star-a35k.png"
                     ],
                     "credits": "SQ981"
-                },
-                {
-                    "name": "Starlux",
-                    "texture": [
-                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/external-liveries/starlux_a35k.png"
-                    ],
-                    "credits": "Apawehh"
                 }
             ],
             "labels": [
@@ -558,14 +558,6 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
-                  "name":  "Pan Am",
-                  "texture": [
-                      "/models/aircraft/premium/a350/specular.jpg",
-                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/panam-a350.png"
-                  ],
-                  "credits": "SQ981"
-                },
-                {
                   "name":  "Nordstar",
                   "texture": [
                       "/models/aircraft/premium/a350/specular.jpg",
@@ -574,18 +566,26 @@
                   "credits": "SQ981"
               },
                 {
-                    "name": "Singapore Airlines (LH)",
-                    "texture": [
-                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme-specular.png",
-                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme.png"
-                    ],
-                    "credits": "SQ981"
+                  "name":  "Pan Am",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/panam-a350.png"
+                  ],
+                  "credits": "SQ981"
                 },
                 {
                     "name": "Singapore Airlines (10000th Airbus)",
                     "texture": [
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme-specular.png",
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-smf.png"
+                    ],
+                    "credits": "SQ981"
+                },
+                {
+                    "name": "Singapore Airlines (LH)",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme-specular.png",
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/9v-sme.png"
                     ],
                     "credits": "SQ981"
                 },
@@ -789,13 +789,13 @@
             "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
             "liveries": [
                 {
-                "name": "Zone of Endless Major (From Ace Combat 2)",
-                    "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/zoneofendless-fa18f.png"],
+                "name": "Joker 1 \"Rex\" (from Ace Combat 8)",
+                    "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/wingsoftheve.png"],
                     "credits": "SQ981"
                 },
                 {
-                "name": "Joker 1 \"Rex\" (from Ace Combat 8)",
-                    "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/wingsoftheve.png"],
+                "name": "Zone of Endless Major (From Ace Combat 2)",
+                    "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/zoneofendless-fa18f.png"],
                     "credits": "SQ981"
                 }
             ],
@@ -1162,16 +1162,16 @@
             "name": "Boeing 747SP",
             "liveries": [
                 {
-                    "name": "Pan Am (Clipper Mayflower)",
+                    "name": "Pan Am (Clipper Freedom)",
                     "texture": [
-                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/panam-747sp-n530pa.png"
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/panam-747sp-n531pa.png"
                     ],
                     "credits": "SQ981"
                 },
                 {
-                    "name": "Pan Am (Clipper Freedom)",
+                    "name": "Pan Am (Clipper Mayflower)",
                     "texture": [
-                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/panam-747sp-n531pa.png"
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/panam-747sp-n530pa.png"
                     ],
                     "credits": "SQ981"
                 }
@@ -1246,6 +1246,13 @@
             "name": "Airbus a300-600",
             "liveries": [
                 {
+                    "name": "Korean Air",
+                    "texture": [
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/hl7297.png"
+                    ],
+                    "credits": "SQ981"
+                },
+                {
                     "name": "Lufthansa",
                     "texture": [
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/d-aiam.png"
@@ -1256,13 +1263,6 @@
                     "name": "Qatar Airways",
                     "texture": [
                         "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/a7-abw.png"
-                    ],
-                    "credits": "SQ981"
-                },
-                {
-                    "name": "Korean Air",
-                    "texture": [
-                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/hl7297.png"
                     ],
                     "credits": "SQ981"
                 }
@@ -1405,16 +1405,16 @@
                     "credits": "SQ981"
                 },
                 {
-                "name": "Royal Air Force - 32nd Squadron (RAF100)",
+                "name": "Royal Air Force - 32nd Squadron (Old Design)",
                     "texture": [
-                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/ze700-raf100.png"
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/ze700-old.png"
                     ],
                     "credits": "SQ981"
                 },
                 {
-                "name": "Royal Air Force - 32nd Squadron (Old Design)",
+                "name": "Royal Air Force - 32nd Squadron (RAF100)",
                     "texture": [
-                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/ze700-old.png"
+                        "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/ze700-raf100.png"
                     ],
                     "credits": "SQ981"
                 }
