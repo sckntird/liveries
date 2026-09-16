@@ -794,7 +794,12 @@
                     "credits": "SQ981"
                 },
                 {
-                "name": "Zone of Endless Major (From Ace Combat 2)",
+                "name": "Joker 2 \"Professor\" (from Ace Combat 8)",
+                    "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/wingsoftheve.png"],
+                    "credits": "SQ981"
+                },
+                {
+                "name": "Zone of Endless \"Major\" (From Ace Combat 2)",
                     "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/zoneofendless-fa18f.png"],
                     "credits": "SQ981"
                 }
@@ -1024,7 +1029,7 @@
             "name": "Northrop YF-23",
             "liveries": [
                 {
-                    "name": "Zone of Endless Colonel",
+                    "name": "Zone of Endless \"Colonel\"",
                     "texture": ["https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/zoneofendless-yf23.png"],
                     "credits": "SQ981"
                 }
