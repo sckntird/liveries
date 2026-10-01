@@ -558,13 +558,21 @@
             "name": "Airbus a350-900",
             "liveries": [
                 {
+                  "name":  "GeoFS",
+                  "texture": [
+                      "/models/aircraft/premium/a350/specular.jpg",
+                      "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/geofs-a359.png"
+                  ],
+                  "credits": "SQ981"
+                },
+                {
                   "name":  "Nordstar",
                   "texture": [
                       "/models/aircraft/premium/a350/specular.jpg",
                       "https://raw.githubusercontent.com/sckntird/liveries/refs/heads/main/liveries/Nordstar-a359.png"
                   ],
                   "credits": "SQ981"
-              },
+                },
                 {
                   "name":  "Pan Am",
                   "texture": [
